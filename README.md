@@ -6,7 +6,7 @@ This is a news aggregator project built using the MERN stack (MongoDB, Express, 
 
 These instructions will help you set up the project on your local machine for development and testing purposes.
 
-### Prerequisites
+### Prerequisites 
 
 - Node.js and npm installed on your machine
 - A NewsAPI.org API key
